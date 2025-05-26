@@ -489,10 +489,6 @@ mypy src/
 4. **Statistical Validity**: Ensure methodological rigor
 5. **Reproducibility**: Include configuration and seed management
 
-## 📄 License
-
-MIT License - See LICENSE file for details
-
 ## 🎯 Future Enhancements
 
 ### Planned Features
